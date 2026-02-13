@@ -1,0 +1,2 @@
+# calculadora-trading
+calculadora
